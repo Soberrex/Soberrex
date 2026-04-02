@@ -116,8 +116,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Soberrex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Soberrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soberrex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soberrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /><br/><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soberrex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -127,7 +127,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soberrex&theme=tokyonight&no-frame=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Soberrex&theme=tokyonight" />
 </div>
 
 ---
