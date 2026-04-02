@@ -114,11 +114,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soberrex&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Soberrex&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soberrex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soberrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soberrex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Soberrex&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
 ---
 
@@ -126,9 +129,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soberrex&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soberrex&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+</div>
 
 ---
 
