@@ -127,7 +127,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soberrex&theme=tokyonight" />
+  <img src="https://github-profile-trophy-rouge-pi.vercel.app/?username=Soberrex&theme=tokyonight" />
 </div>
 
 ---
